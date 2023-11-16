@@ -107,7 +107,7 @@ def clear_screen():
 def show_menu(username):
     while True:
         clear_screen()
-        print(f"{Fore.YELLOW}USER VIP: {username}")
+        print(f"{Fore.YELLOW}USER: {username}")
         print(Fore.WHITE+"\nMenu:")
         print(f"{Fore.GREEN}1. IP-SCAN\n2. EMAILBOMB\n3. ENCURTADOR DE LINK\n4. SAIR{Style.RESET_ALL}")
 
