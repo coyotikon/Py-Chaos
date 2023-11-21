@@ -1,0 +1,8 @@
+colorama==0.4.4
+requests==2.26.0
+shutil
+argparse
+itertools
+socket
+geoip2==4.0.0
+nmap==0.7.1
